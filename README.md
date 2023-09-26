@@ -8,4 +8,4 @@ Visit my personal website to know about my portfolio, tech stack, tools and also
 
 ## Blog ✍️
 I love to write a blog. My blog talking about software engineering and data science.  
-🔗 _**[glennprays.tech/blog](https://glennprays.tech/blog/)**_
+🔗 _**[glennprays.tech/blog](https://glennprays.tech/blog)**_
